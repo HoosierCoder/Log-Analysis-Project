@@ -1,12 +1,10 @@
 # Log-Analysis-Project
 Read the news database and display information relating to views
 
+*coding performed by Dennis A. Johns*
+
 # Nanodegree
 Udacity's Full Stack Developer
-
-# Project 1: Personal Portfolio
-
-*coding performed by Dennis A. Johns*
 
 The log analysis project is first database project assigned for Udacity's Full Stack Web Devloper nanodegree!
 
